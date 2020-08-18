@@ -1,0 +1,12 @@
+{
+    "name": "Glasgow",
+    "day": "Tue-Wed-Thu-Fri-Sat",
+	"date": "20-21-22-23-24",
+	"cloudCondition": "Rain-Clouds-Rain-Rain-Rain",
+	"maxTemp": "16-14-13-13-13",
+	"minTemp": "12-5-11-9-12",
+	"windSpeed": "3kph-2kph-3kph-6kph-10kph",
+	"rainfall": "1mm-5mm-15mm-3mm-40mm",
+	"pressure": "1015mb-1013mb-1008mb-1006mb-1002mb"
+  
+    }

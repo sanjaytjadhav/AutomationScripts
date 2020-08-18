@@ -1,0 +1,11 @@
+{
+    "name": "Glasgow",
+    "day": "Tue",
+	"cloudCondition": "Rain",
+	"maxTemp": "16",
+	"minTemp": "12",
+	"windSpeed": "3kph",
+	"rainfall": "1",
+	"pressure": "1015mb"
+  
+    }
